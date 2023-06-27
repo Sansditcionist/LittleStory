@@ -12,3 +12,4 @@ How To Play:
 
 WARNING: Don't change anything In the code!!!
 haha yes
+also The game might be broken so please be kind and aprreciate of what I did
